@@ -1,0 +1,6 @@
+*.pyo
+*.pyc
+bin
+/.buildozer
+/.venv
+/temp
