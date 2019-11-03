@@ -21,3 +21,7 @@
 ### 不具合報告、要望
 
 不具合はこのrepositoryの`Issues`で、機能追加などの要望は`Pull requests`でおねがいします。Githubアカウントを持ってない人は[E-mail](mailto:flow4re2c@gmail.com)で。
+
+### 他
+
+- [更新履歴](whatsnew.md)
