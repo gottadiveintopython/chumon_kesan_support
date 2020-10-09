@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 注文計算アプリのサポートページ
 
-You can use the [editor on GitHub](https://github.com/gottadiveintopython/chumon_kesan_support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="images/icon.png" width=30%/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://play.google.com/store/apps/details?id=jp.gottadiveintopython.chumon_kesan"><img src="images/google-play-badge.png" width=30%/></a>
 
-### Markdown
+### 「注文計算アプリ」とは？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+品物の売買における
 
-```markdown
-Syntax highlighted code block
+- お品書きの作成
+- 合計金額の計算
+- 注文の記録
 
-# Header 1
-## Header 2
-### Header 3
+をやってくれるアプリで、企業が使っている様な本格的なシステムは要らないけどちょっとした物が欲しいという人を利用者として想定しています。例えば自営業の飲食店、学園祭のお店、直売をしている農家などです。
 
-- Bulleted
-- List
+### 使い方
 
-1. Numbered
-2. List
+[この動画](https://youtu.be/WAOYkFyuWwY)を見てください。
 
-**Bold** and _Italic_ and `Code` text
+### 不具合報告、要望
 
-[Link](url) and ![Image](src)
-```
+不具合はこのrepositoryの`Issues`で、機能追加などの要望は`Pull requests`でおねがいします。Githubアカウントを持ってない人は[E-mail](mailto:flow4re2c@gmail.com)で。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 他
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gottadiveintopython/chumon_kesan_support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [更新履歴](whatsnew.md)
